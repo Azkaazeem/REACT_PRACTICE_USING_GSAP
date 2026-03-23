@@ -15,9 +15,8 @@ function App() {
         rotate: 360,
         duration: 0.8,
         delay: 1
-    }, {scope: container}
-    )
-  })
+    })
+  } , {scope: container} )
 
   return (
     <>
